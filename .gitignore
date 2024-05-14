@@ -12,6 +12,13 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
+# yarn
+.yarn/install-state.gz
+.yarn/cache
+.yarn/patches
+.yarn/plugins
+.yarn/sdks
+.yarn/versions
 
 # environment variables
 .env
