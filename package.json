@@ -1,0 +1,26 @@
+{
+  "name": "choco-astro",
+  "version": "0.1.0",
+  "packageManager": "yarn@4.2.2",
+  "type": "module",
+  "description": "A global set of dependencies to be used on Chocolatey Software Astro projects.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chocolatey/choco-astro.git"
+  },
+  "author": "Chocolatey Software (https://chocolatey.org/)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/chocolatey/choco-astro/issues"
+  },
+  "homepage": "https://github.com/chocolatey/choco-astro#readme",
+  "dependencies": {
+    "@astrojs/check": "0.7.0",
+    "@astrojs/mdx": "3.1.0",
+    "@astrojs/sitemap": "3.1.5",
+    "astro": "4.10.1",
+    "rehype-mermaid": "^2.1.0",
+    "remark-custom-header-id": "^1.0.0",
+    "typescript": "^5.4.5"
+  }
+}
