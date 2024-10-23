@@ -1,6 +1,6 @@
 {
   "name": "choco-astro",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "packageManager": "yarn@4.2.2",
   "type": "module",
   "description": "A global set of dependencies to be used on Chocolatey Software Astro projects.",
@@ -15,12 +15,12 @@
   },
   "homepage": "https://github.com/chocolatey/choco-astro#readme",
   "dependencies": {
-    "@astrojs/check": "0.9.3",
-    "@astrojs/mdx": "3.1.7",
-    "@astrojs/sitemap": "3.1.6",
-    "astro": "4.15.10",
-    "rehype-mermaid": "^2.1.0",
+    "@astrojs/check": "0.9.4",
+    "@astrojs/mdx": "3.1.8",
+    "@astrojs/sitemap": "3.2.1",
+    "astro": "4.16.7",
+    "rehype-mermaid": "^3.0.0",
     "remark-custom-header-id": "^1.0.0",
-    "typescript": "^5.6.2"
+    "typescript": "^5.6.3"
   }
 }
