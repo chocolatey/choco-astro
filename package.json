@@ -1,6 +1,6 @@
 {
   "name": "choco-astro",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "packageManager": "yarn@4.2.2",
   "type": "module",
   "description": "A global set of dependencies to be used on Chocolatey Software Astro projects.",
