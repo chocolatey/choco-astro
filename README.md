@@ -37,6 +37,7 @@ The Chocolatey Design System has all information relating to Astro Components an
 * Learn about Astro and how to use [Components in `.mdx` and `.astro`](https://design.chocolatey.org/foundations/astro) file types.
 * Learn how to use the [`<Callout />` Component](https://design.chocolatey.org/components/callouts) to display notes and important information.
 * Learn how to use the [`<CollapseButton />` Component](https://design.chocolatey.org/collapse-button) to display a button that triggers a collapsed element.
+* Learn how to use the [`<DynamicCodeBlock />` and `<DynamicCodeBlockInput />` Components](https://design.chocolatey.org/components/dynamic-code-block) to display a code block with variables that can be replaced with values from inputs.
 * Learn how to use the [`<Iframe />` Component](https://design.chocolatey.org/components/iframe) to display videos with defined aspect ratios.
 * Learn how to use the [`<Tabs />` Component](https://design.chocolatey.org/components/tabs) to display content in tabbed interface.
 * Learn how to use the [`<Xref />` Component](https://design.chocolatey.org/components/xref) to link to other documents within this repository.
