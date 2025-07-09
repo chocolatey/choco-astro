@@ -13,7 +13,7 @@ type CalloutTitle = Callout['title'];
 type CalloutType = Callout['type'];
 
 interface Props {
-    content: Callout
+    content?: Callout
     title: CalloutTitle
     type: CalloutType
 }
@@ -28,7 +28,7 @@ if (title) {
     title = '';
 }
 
-type = type ? type : content.type;
+type = type ? type : (content && content.type ? content.type : 'none');
 let icon = '';
 
 switch (type) {
